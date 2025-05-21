@@ -7,6 +7,8 @@
 <h3> Qompass AI on Mesa </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-mesa)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/mesa/total?style=flat-square)
+
   <a href="https://www.mesa3d.org/">
   <img src="https://img.shields.io/badge/Mesa-ED760E?style=for-the-badge" alt="Mesa 3D">
 </a>
